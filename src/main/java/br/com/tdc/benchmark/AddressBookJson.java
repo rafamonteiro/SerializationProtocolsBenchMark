@@ -1,4 +1,4 @@
-package br.com.tdc.serializationprotocols.json;
+package br.com.tdc.benchmark;
 
 import java.io.Serializable;
 import java.util.List;

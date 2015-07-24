@@ -1,0 +1,11 @@
+namespace br.com.tdc.serializationprotocols.flatbuffers;
+
+table Person {
+  phoneBook:[long];
+  name:string;
+  id:int;
+  email:string;
+
+}
+
+root_type Person;
